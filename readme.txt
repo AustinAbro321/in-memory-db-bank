@@ -8,4 +8,3 @@ Here are the requirements for your application
 5. Return all the people who don't have an email address in the system
 6. Get all the claims from the year 2021
 7. Get a list of all the overdue claims
-
